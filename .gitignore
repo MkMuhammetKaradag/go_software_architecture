@@ -4,6 +4,7 @@
 
 !/abstraction/
 !/ocp/
+!/dip/
 !/.gitignore
 !/README.md
 !*.go
