@@ -3,8 +3,8 @@
 
 
 !/abstraction/
+!/ocp/
 !/.gitignore
 !/README.md
+!*.go
 
-
-!/abstraction/*.go
