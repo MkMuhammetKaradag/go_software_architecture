@@ -5,6 +5,7 @@
 !/abstraction/
 !/ocp/
 !/dip/
+!/ioc/
 !/.gitignore
 !/README.md
 !*.go
