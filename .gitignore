@@ -1,0 +1,10 @@
+
+*
+
+
+!/abstraction/
+!/.gitignore
+!/README.md
+
+
+!/abstraction/*.go
